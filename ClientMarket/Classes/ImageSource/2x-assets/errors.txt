@@ -1,0 +1,2 @@
+[Thu Jan 05 2017 16:19:58 GMT+0800 (中国标准时间)] layer "btn_login_selected@2x.peg": Unsupported extension: peg
+[Thu Jan 05 2017 16:19:58 GMT+0800 (中国标准时间)] layer "btn_sjs_dwsj2_default@2x.png": Duplicate path: btn_sjs_dwsj2_default@2x.png

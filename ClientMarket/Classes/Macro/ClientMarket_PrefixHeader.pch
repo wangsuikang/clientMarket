@@ -1,0 +1,17 @@
+//
+//  ClientMarket_PrefixHeader.pch
+//  ClientMarket
+//
+//  Created by 王岁康 on 2017/1/8.
+//  Copyright © 2017年 etlfab. All rights reserved.
+//
+
+#ifndef ClientMarket_PrefixHeader_pch
+#define ClientMarket_PrefixHeader_pch
+#import "WSKColorHelper.h"
+#import "MacroDefinition.h"
+#import "MacroDefine.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* ClientMarket_PrefixHeader_pch */

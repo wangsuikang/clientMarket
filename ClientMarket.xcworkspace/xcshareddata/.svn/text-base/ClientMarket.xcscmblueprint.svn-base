@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "a49d9895-37ee-4469-867d-2dca6a58f850++1821",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "a49d9895-37ee-4469-867d-2dca6a58f850++1821" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "a49d9895-37ee-4469-867d-2dca6a58f850++1821" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F1B8E8F6-2978-4BBA-809C-015764B2C3B3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "a49d9895-37ee-4469-867d-2dca6a58f850++1821" : "ClientMarket\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ClientMarket",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ClientMarket.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/suikang.wang@203.156.205.172\/davesvn",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a49d9895-37ee-4469-867d-2dca6a58f850++1821"
+    }
+  ]
+}
